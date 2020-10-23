@@ -1,0 +1,2 @@
+Read me:
+This project talks about threading and multi-threading and the advantages and disadvantages of both. I used the information from Internet to write the veracity.
