@@ -1,0 +1,2 @@
+Read me:
+This soccer database collects information about teams, players and coaches. I created this database topic because I'm interested in this field and I like soccer. I used the information from internet to write that database.
